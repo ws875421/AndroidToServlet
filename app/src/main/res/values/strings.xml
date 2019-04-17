@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JSONTransferAndroid</string>
+    <string name="text_btSearch">Search</string>
+    <string name="text_tvResult">Result</string>
+    <string name="text_tvArea">Area</string>
+    <string name="msg_NoNetwork">No network connection available</string>
+    <string name="msg_NoAreaFound">No area found</string>
+</resources>
